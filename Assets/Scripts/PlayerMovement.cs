@@ -71,7 +71,7 @@ public class PlayerMovement : MonoBehaviour
 
     public void Sprint()
     {
-        if (stamina > 0f )
+        if (stamina > 0f)
         {
             currentWalkSpeed = sprintSpeed;
             stamina -= Time.deltaTime;
@@ -81,6 +81,6 @@ public class PlayerMovement : MonoBehaviour
         {
             Debug.Log("Out of Stamina");
         }
-        
+
     }
 }
