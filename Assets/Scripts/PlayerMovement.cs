@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.UI;
 
 public class PlayerMovement : MonoBehaviour
 {
@@ -10,9 +11,12 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float crouchSpeed;
     [SerializeField] private float gravity;
     [SerializeField] private float jumpPower;
+    [SerializeField] float stamina = 6f;
 
     [SerializeField] Vector3 moveDirection;
     [SerializeField] Vector2 input;
+
+    public Slider staminaBar;
 
     public CharacterController controller;
 
@@ -21,6 +25,7 @@ public class PlayerMovement : MonoBehaviour
     private void Awake()
     {
         controller = GetComponent<CharacterController>();
+        currentWalkSpeed = walkSpeed;
     }
 
     private void Update()
@@ -31,14 +36,18 @@ public class PlayerMovement : MonoBehaviour
         moveDirection.x = input.x * currentWalkSpeed;
         moveDirection.z = input.y * currentWalkSpeed;
 
-        if (Input.GetKey(KeyCode.LeftShift))
+        if (Input.GetKey(KeyCode.LeftShift) && input.y != 0 || input.x != 0)
         {
-            moveDirection.x = input.x * sprintSpeed;
-            moveDirection.z = input.y * sprintSpeed;
+            Sprint();
         }
         else
         {
             currentWalkSpeed = walkSpeed;
+            if (stamina < 6f)
+            {
+                stamina += Time.deltaTime;
+            }
+            staminaBar.value = stamina;
         }
 
         moveDirection.y -= gravity * Time.deltaTime;
@@ -58,5 +67,20 @@ public class PlayerMovement : MonoBehaviour
         moveDirection = transform.TransformDirection(moveDirection);
         controller.Move(moveDirection * Time.deltaTime);
 
+    }
+
+    public void Sprint()
+    {
+        if (stamina > 0f )
+        {
+            currentWalkSpeed = sprintSpeed;
+            stamina -= Time.deltaTime;
+            staminaBar.value = stamina;
+        }
+        else if (stamina <= 0f)
+        {
+            Debug.Log("Out of Stamina");
+        }
+        
     }
 }
