@@ -11,32 +11,41 @@ public class PlayerMovement : MonoBehaviour
     [SerializeField] private float crouchSpeed;
     [SerializeField] private float gravity;
     [SerializeField] private float jumpPower;
+    [SerializeField] private float speedThisFrame;
     [SerializeField] float stamina = 6f;
-
-    [SerializeField] Vector3 moveDirection;
-    [SerializeField] Vector2 input;
+    public LayerMask groundedMask;
+    [SerializeField] Vector3 movementThisFrame;
+    [SerializeField] Vector2 inputThisFrame;
 
     public Slider staminaBar;
 
-    public CharacterController controller;
+    public Rigidbody rb;
 
     public Transform cameraTransform;
 
     private void Awake()
     {
-        controller = GetComponent<CharacterController>();
+        rb = GetComponent<Rigidbody>();
         currentWalkSpeed = walkSpeed;
     }
 
     private void Update()
     {
-        input.x = Input.GetAxis("Horizontal");
-        input.y = Input.GetAxis("Vertical");
+        //get our inputs this frame
+        inputThisFrame.x = Input.GetAxis("Horizontal");
+        inputThisFrame.y = Input.GetAxis("Vertical");
 
-        moveDirection.x = input.x * currentWalkSpeed;
-        moveDirection.z = input.y * currentWalkSpeed;
+        //reset our potential movement to 0, 0, 0
+        movementThisFrame = Vector3.zero;
 
-        if (Input.GetKey(KeyCode.LeftShift) && input.y != 0 || input.x != 0)
+        //apply our new input direction right/left and forward/back
+        movementThisFrame.x = inputThisFrame.x;
+        movementThisFrame.z = inputThisFrame.y;
+
+        //figure out what our speed should be this frame
+        speedThisFrame = walkSpeed;
+
+        if (Input.GetKey(KeyCode.LeftShift) && (movementThisFrame.z != 0 || movementThisFrame.x != 0))
         {
             Sprint();
         }
@@ -49,23 +58,21 @@ public class PlayerMovement : MonoBehaviour
             }
             staminaBar.value = stamina;
         }
+        movementThisFrame *= speedThisFrame;
 
-        moveDirection.y -= gravity * Time.deltaTime;
-
-        if (controller.isGrounded)
+        movementThisFrame.y = rb.velocity.y - gravity * Time.deltaTime;
+        if (IsGrounded())
         {
-            moveDirection.y = Mathf.Clamp(moveDirection.y, -gravity, float.PositiveInfinity);
+
 
             if (Input.GetKeyDown(KeyCode.Space))
             {
-                moveDirection.y = jumpPower;
+                movementThisFrame.y = jumpPower;
             }
         }
 
-        transform.localEulerAngles = new Vector3(0, cameraTransform.localEulerAngles.y, 0);
 
-        moveDirection = transform.TransformDirection(moveDirection);
-        controller.Move(moveDirection * Time.deltaTime);
+        Movement(movementThisFrame);
 
     }
 
@@ -73,7 +80,7 @@ public class PlayerMovement : MonoBehaviour
     {
         if (stamina > 0f)
         {
-            currentWalkSpeed = sprintSpeed;
+            speedThisFrame = sprintSpeed;
             stamina -= Time.deltaTime;
             staminaBar.value = stamina;
         }
@@ -82,5 +89,19 @@ public class PlayerMovement : MonoBehaviour
             Debug.Log("Out of Stamina");
         }
 
+    }
+    private bool IsGrounded()
+    {
+        //return the result of a raycast (true of false)
+        return Physics.Raycast(transform.position, Vector3.down, 1.04f, groundedMask);
+    }
+
+    private void Movement(Vector3 movement)
+    {
+        transform.localEulerAngles = new Vector3(0, cameraTransform.localEulerAngles.y, 0);
+
+        movement = transform.TransformDirection(movement);
+
+        rb.velocity = movement;
     }
 }
