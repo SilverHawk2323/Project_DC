@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.18028331, g: 0.2257133, b: 0.3069217, a: 1}
+  m_IndirectSpecularColor: {r: 0.18028378, g: 0.22571412, b: 0.30692285, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -916,6 +916,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (109)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -965,11 +970,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (109)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -2674,6 +2674,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (98)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2723,11 +2728,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (98)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3332,6 +3332,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 48557098}
     m_Modifications:
+    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Pillar_Mesh (5)
+      objectReference: {fileID: 0}
     - target: {fileID: 7967421877806738180, guid: bdbd093090cbb31468ae57bf58ebdfbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3381,11 +3386,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Pillar_Mesh (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -3495,6 +3495,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (100)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3545,11 +3550,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (100)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3569,6 +3569,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (92)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3618,11 +3623,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (92)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -4564,6 +4564,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (84)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4613,11 +4618,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (84)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -6628,6 +6628,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (68)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -6677,11 +6682,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (68)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8608,6 +8608,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (60)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8657,11 +8662,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (60)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -8941,6 +8941,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (43)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -8990,11 +8995,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (43)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11368,6 +11368,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (53)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11417,11 +11422,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (53)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -11607,6 +11607,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (106)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -11656,11 +11661,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (106)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -12288,6 +12288,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (111)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -12337,11 +12342,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (111)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13792,6 +13792,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (54)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -13841,11 +13846,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (54)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14031,6 +14031,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (97)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14080,11 +14085,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (97)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14382,6 +14382,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (81)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14431,11 +14436,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (81)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14545,6 +14545,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (75)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14594,11 +14599,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (75)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -14949,6 +14949,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (115)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -14999,11 +15004,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (115)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -15023,6 +15023,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (44)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15072,11 +15077,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (44)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -15842,6 +15842,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 48557098}
     m_Modifications:
+    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Pillar_Mesh (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 7967421877806738180, guid: bdbd093090cbb31468ae57bf58ebdfbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -15891,11 +15896,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Pillar_Mesh (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16170,6 +16170,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (101)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16219,11 +16224,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (101)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -16597,6 +16597,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (34)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -16646,11 +16651,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (34)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17386,6 +17386,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (58)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17435,11 +17440,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (58)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -17837,6 +17837,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (61)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -17886,11 +17891,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (61)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -18927,6 +18927,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (73)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -18976,11 +18981,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (73)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20066,6 +20066,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (39)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20115,11 +20120,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (39)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20305,6 +20305,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1643152240}
     m_Modifications:
+    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Greybox (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 4570523758512670514, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20354,11 +20359,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Greybox (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -20668,6 +20668,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (63)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -20717,11 +20722,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (63)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21072,6 +21072,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (112)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21121,11 +21126,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (112)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21479,6 +21479,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (104)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21528,11 +21533,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (104)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -21718,6 +21718,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (107)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21768,11 +21773,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (107)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21792,6 +21792,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (108)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21842,11 +21847,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (108)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -21866,6 +21866,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (90)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -21915,11 +21920,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (90)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -22717,6 +22717,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (42)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -22766,11 +22771,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (42)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -24301,6 +24301,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (95)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -24350,11 +24355,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (95)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -25477,6 +25477,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (79)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -25526,11 +25531,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (79)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27822,6 +27822,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (76)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -27871,11 +27876,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (76)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -27985,6 +27985,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (56)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28034,11 +28039,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (56)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -28298,6 +28298,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (86)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -28347,11 +28352,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (86)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29122,6 +29122,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (103)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29171,11 +29176,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (103)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29450,6 +29450,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (99)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -29499,11 +29504,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (99)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -30729,6 +30729,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (71)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -30778,11 +30783,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (71)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31062,6 +31062,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1643152240}
     m_Modifications:
+    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Greybox (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 4570523758512670514, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31111,11 +31116,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Greybox (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31626,6 +31626,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (41)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -31675,11 +31680,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (41)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -31954,6 +31954,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (45)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32003,11 +32008,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (45)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -32287,6 +32287,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (52)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32337,11 +32342,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (52)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -32361,6 +32361,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1643152240}
     m_Modifications:
+    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Greybox (5)
+      objectReference: {fileID: 0}
     - target: {fileID: 4570523758512670514, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -32410,11 +32415,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Greybox (5)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -33429,6 +33429,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (36)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -33478,11 +33483,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (36)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34369,6 +34369,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (83)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -34418,11 +34423,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (83)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -35030,6 +35030,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (89)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -35079,11 +35084,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (89)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -36808,6 +36808,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 48557098}
     m_Modifications:
+    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Pillar_Mesh (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 7967421877806738180, guid: bdbd093090cbb31468ae57bf58ebdfbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -36857,11 +36862,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Pillar_Mesh (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37208,6 +37208,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (38)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -37257,11 +37262,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (38)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -37630,6 +37630,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (32)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -37679,11 +37684,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (32)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39194,6 +39194,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (78)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39243,11 +39248,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (78)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -39513,6 +39513,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (80)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39562,11 +39567,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (80)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40080,6 +40080,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (65)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -40129,11 +40134,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (65)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40620,6 +40620,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (105)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -40669,11 +40674,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (105)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -40788,6 +40788,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (91)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -40837,11 +40842,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (91)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -41279,6 +41279,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (85)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -41328,11 +41333,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (85)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -43470,6 +43470,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (40)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43519,11 +43524,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (40)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -43872,6 +43872,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 48557098}
     m_Modifications:
+    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Pillar_Mesh (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 7967421877806738180, guid: bdbd093090cbb31468ae57bf58ebdfbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -43921,11 +43926,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Pillar_Mesh (2)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -44020,6 +44020,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (46)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44069,11 +44074,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (46)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -44664,6 +44664,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (67)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -44713,11 +44718,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (67)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -44977,6 +44977,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (70)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -45026,11 +45031,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (70)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -45305,6 +45305,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (72)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -45354,11 +45359,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (72)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -46854,6 +46854,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (47)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -46903,11 +46908,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (47)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -47904,6 +47904,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (66)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -47953,11 +47958,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (66)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -48237,6 +48237,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (87)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -48286,11 +48291,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (87)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51068,6 +51068,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (51)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -51117,11 +51122,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (51)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51737,6 +51737,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1643152240}
     m_Modifications:
+    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Greybox (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 4570523758512670514, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -51786,11 +51791,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Greybox (1)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -51965,6 +51965,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 48557098}
     m_Modifications:
+    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Pillar_Mesh (3)
+      objectReference: {fileID: 0}
     - target: {fileID: 7967421877806738180, guid: bdbd093090cbb31468ae57bf58ebdfbb,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -52014,11 +52019,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 7339221769601479102, guid: bdbd093090cbb31468ae57bf58ebdfbb,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Pillar_Mesh (3)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -52786,6 +52786,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (77)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -52835,11 +52840,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (77)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -53664,6 +53664,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (114)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -53714,11 +53719,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (114)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -53738,6 +53738,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (74)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -53787,11 +53792,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (74)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -54216,6 +54216,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (96)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -54266,11 +54271,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (96)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -54290,6 +54290,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (59)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -54339,11 +54344,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (59)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -54527,6 +54527,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1643152240}
     m_Modifications:
+    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Greybox (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 4570523758512670514, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -54576,11 +54581,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Greybox (4)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -55513,6 +55513,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (49)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -55562,11 +55567,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (49)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -57577,6 +57577,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (113)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -57627,11 +57632,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (113)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -57651,6 +57651,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (94)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -57700,11 +57705,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (94)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58492,6 +58492,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (88)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -58541,11 +58546,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (88)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -59649,6 +59649,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (110)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -59698,11 +59703,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (110)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61249,6 +61249,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (102)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -61298,11 +61303,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (102)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61915,6 +61915,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (33)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -61964,11 +61969,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (33)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -64721,6 +64721,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (64)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -64770,11 +64775,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (64)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -65034,6 +65034,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (82)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -65084,11 +65089,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (82)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65108,6 +65108,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (55)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -65158,11 +65163,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (55)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65182,6 +65182,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (50)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -65231,11 +65236,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (50)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -65849,6 +65849,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (37)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -65899,11 +65904,6 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
       objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (37)
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65923,6 +65923,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (69)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -65972,11 +65977,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (69)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -66346,6 +66346,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (62)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -66395,11 +66400,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (62)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68484,6 +68484,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (93)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -68533,11 +68538,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (93)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -68886,6 +68886,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (57)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -68935,11 +68940,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (57)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -70037,6 +70037,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1643152240}
     m_Modifications:
+    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
+        type: 3}
+      propertyPath: m_Name
+      value: Door_Greybox (6)
+      objectReference: {fileID: 0}
     - target: {fileID: 4570523758512670514, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -70086,11 +70091,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 3757712414411447688, guid: e29518c4bc1ec7e47bddd9aa71be3a40,
-        type: 3}
-      propertyPath: m_Name
-      value: Door_Greybox (6)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -70205,6 +70205,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (48)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -70254,11 +70259,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (48)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -70848,6 +70848,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1419333279}
     m_Modifications:
+    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
+        type: 3}
+      propertyPath: m_Name
+      value: Greybox_Wall_Mesh (35)
+      objectReference: {fileID: 0}
     - target: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -70897,11 +70902,6 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 90
-      objectReference: {fileID: 0}
-    - target: {fileID: 8528671967757264876, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
-        type: 3}
-      propertyPath: m_Name
-      value: Greybox_Wall_Mesh (35)
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
