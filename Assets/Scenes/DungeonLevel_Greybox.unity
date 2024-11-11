@@ -73391,22 +73391,22 @@ PrefabInstance:
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -1.488
       objectReference: {fileID: 0}
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.15
+      value: 0.15
       objectReference: {fileID: 0}
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 5
+      value: 4.602
       objectReference: {fileID: 0}
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
       propertyPath: m_LocalRotation.w
-      value: 0
+      value: 0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
@@ -73416,7 +73416,7 @@ PrefabInstance:
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
       propertyPath: m_LocalRotation.y
-      value: 1
+      value: -0.7071068
       objectReference: {fileID: 0}
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
@@ -73431,7 +73431,7 @@ PrefabInstance:
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.y
-      value: 180
+      value: -90
       objectReference: {fileID: 0}
     - target: {fileID: 2782817875866465313, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
         type: 3}
@@ -73442,6 +73442,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Greybox_GrandDoor_Mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 3951243200479317838, guid: eb4c5483bd0e77a4b90ae03e5d3e76c2,
+        type: 3}
+      propertyPath: m_Enabled
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
