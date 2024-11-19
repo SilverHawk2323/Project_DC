@@ -105,7 +105,7 @@ public class PlayerMovement : MonoBehaviour
     private bool IsGrounded()
     {
         //return the result of a raycast (true of false)
-        return Physics.Raycast(transform.position, Vector3.down, 1.04f, groundedMask);
+        return Physics.Raycast(transform.position, Vector3.down, 0.5f, groundedMask);
     }
 
     private void Movement(Vector3 movement)
