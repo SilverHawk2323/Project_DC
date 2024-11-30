@@ -11,6 +11,7 @@ GameObject:
   - component: {fileID: 1471080170924717773}
   - component: {fileID: 1992588414438275263}
   - component: {fileID: 1303829232393652020}
+  - component: {fileID: 1680724428499397109}
   m_Layer: 0
   m_Name: Final Model
   m_TagString: Untagged
@@ -76,6 +77,19 @@ BoxCollider:
   serializedVersion: 3
   m_Size: {x: 5.417097, y: 1, z: 5.4634}
   m_Center: {x: 2.7924435, y: 0, z: -2.717271}
+--- !u!114 &1680724428499397109
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 8533085903050827966}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 10cf00e715b2411469380d82c731c26d, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _Animator: {fileID: 0}
 --- !u!1001 &418985584546344502
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -372,6 +386,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Name
       value: Prefab_SpikeTrap_Mesh
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 1adcea345a1475b4da823770fa42959a,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 1356014372909742768, guid: 1adcea345a1475b4da823770fa42959a,
         type: 3}

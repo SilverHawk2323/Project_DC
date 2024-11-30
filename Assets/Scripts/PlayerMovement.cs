@@ -77,7 +77,7 @@ public class PlayerMovement : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.E))
         {
             RaycastHit hit;
-            if (Physics.Raycast(transform.position, transform.forward, out hit, 5f))
+            if (Physics.Raycast(transform.position, transform.forward, out hit, 2f))
             {
                 if (hit.transform.TryGetComponent<Interactable_MasterClass>(out Interactable_MasterClass interact))
                 {
