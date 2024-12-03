@@ -7659,6 +7659,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 563956646}
     m_Modifications:
+    - target: {fileID: 1658779703375717714, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 2145620388}
     - target: {fileID: 6010069149771208215, guid: b44c26ba063709547949b22b265cd665,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -19449,6 +19454,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 563956646}
     m_Modifications:
+    - target: {fileID: 1658779703375717714, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1585322759}
     - target: {fileID: 6010069149771208215, guid: b44c26ba063709547949b22b265cd665,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -39696,6 +39706,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1124577778}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1133065861 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 4580962434570981700, guid: c82656955db699149a23432d8271dc1b,
+    type: 3}
+  m_PrefabInstance: {fileID: 167649027}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1133229571
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -40453,6 +40469,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 563956646}
     m_Modifications:
+    - target: {fileID: 1658779703375717714, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1359503649}
     - target: {fileID: 6010069149771208215, guid: b44c26ba063709547949b22b265cd665,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -46866,6 +46887,12 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!1 &1359503649 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1647604902124699795, guid: 188ca3e143c569844ba8bdddab70e5a1,
+    type: 3}
+  m_PrefabInstance: {fileID: 105182584401043099}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1361797856
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -54692,6 +54719,12 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1581090239}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &1585322759 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 7536317556840729327, guid: 4390d829839dc054c9a32f4115f8e56f,
+    type: 3}
+  m_PrefabInstance: {fileID: 9006114891828492269}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1593042143
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -58119,6 +58152,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 563956646}
     m_Modifications:
+    - target: {fileID: 1658779703375717714, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1768812190}
     - target: {fileID: 5540813765870111268, guid: b44c26ba063709547949b22b265cd665,
         type: 3}
       propertyPath: m_Material
@@ -61686,6 +61724,12 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 9011770317008321878, guid: bfc6f0d3dce6d004eb0b05599a2aab0b,
     type: 3}
   m_PrefabInstance: {fileID: 1764040984}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1768812190 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 6544704545593670077, guid: 058d9108d30a3ef4093b6924205b7232,
+    type: 3}
+  m_PrefabInstance: {fileID: 8901072322358089603}
   m_PrefabAsset: {fileID: 0}
 --- !u!43 &1772409954
 Mesh:
@@ -74989,6 +75033,12 @@ Mesh:
     offset: 0
     size: 0
     path: 
+--- !u!1 &2145620388 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8840791788381439672, guid: 207190222e342ff4e857e824678070f6,
+    type: 3}
+  m_PrefabInstance: {fileID: 2060288208}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &105182584401043099
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -75337,6 +75387,11 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 563956646}
     m_Modifications:
+    - target: {fileID: 1658779703375717714, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1133065861}
     - target: {fileID: 6010069149771208215, guid: b44c26ba063709547949b22b265cd665,
         type: 3}
       propertyPath: m_LocalPosition.x
