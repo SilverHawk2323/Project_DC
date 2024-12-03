@@ -7,10 +7,13 @@ public class Chest : Interactable_MasterClass
     private ParticleSystem pickupEffect;
     private bool doOnce;
     [SerializeField] GameObject pickupMesh;
+    private AudioSource chestOpeningSFX;
+    [SerializeField] private AudioClip chestSFX;
 
     private void Start()
     {
         pickupEffect = GetComponentInChildren<ParticleSystem>();
+        chestOpeningSFX = GetComponent<AudioSource>();
     }
     public override void Activate()
     {
@@ -19,6 +22,7 @@ public class Chest : Interactable_MasterClass
             return;
         }
         pickupEffect.Play();
+        chestOpeningSFX.PlayOneShot(chestSFX);
         Destroy(pickupMesh);
         doOnce = true;
     }

@@ -6,6 +6,13 @@ public class Door : Interactable_MasterClass
 {
     private bool _IsDoorOpen = false;
     [SerializeField]private Animator _Animator;
+    private AudioSource doorOpeningSFX;
+    [SerializeField] private AudioClip doorSFX;
+
+    private void Start()
+    {
+        doorOpeningSFX = GetComponent<AudioSource>();
+    }
     public override void Activate()
     {
         Debug.Log("This is a " + name);
@@ -16,6 +23,7 @@ public class Door : Interactable_MasterClass
             //once the animation plays check if it is set to false, if it is set to true. if it is true, set to false
             _IsDoorOpen = _IsDoorOpen ? false : true;
             Debug.Log(_IsDoorOpen);
+            doorOpeningSFX.PlayOneShot(doorSFX);
         }
         else
         {
