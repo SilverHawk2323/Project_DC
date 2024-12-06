@@ -4821,6 +4821,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1314198366}
+    - target: {fileID: 4705072515742800627, guid: c82656955db699149a23432d8271dc1b,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 37
+      objectReference: {fileID: 0}
     - target: {fileID: 7746460374112281142, guid: c82656955db699149a23432d8271dc1b,
         type: 3}
       propertyPath: m_Mesh
@@ -7719,6 +7724,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Greybox_Chest_Mesh (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 6416486939081439807, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 2145620388}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -19514,6 +19524,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Greybox_Chest_Mesh (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 6416486939081439807, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1585322759}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -40529,6 +40544,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Greybox_Chest_Mesh (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 6416486939081439807, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1359503649}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58218,6 +58238,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Greybox_Chest_Mesh (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 6416486939081439807, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1768812190}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -71082,7 +71107,7 @@ PrefabInstance:
     - target: {fileID: 244115692716232555, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
       propertyPath: m_Enabled
-      value: 0
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 432658606291001020, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
@@ -71094,6 +71119,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 376115226}
+    - target: {fileID: 721920345249069683, guid: 207190222e342ff4e857e824678070f6,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 36
+      objectReference: {fileID: 0}
     - target: {fileID: 1916772692402221189, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
       propertyPath: m_Mesh
@@ -71104,6 +71134,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 1815734946}
+    - target: {fileID: 1976345399130432294, guid: 207190222e342ff4e857e824678070f6,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 39
+      objectReference: {fileID: 0}
     - target: {fileID: 3263016985847280620, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
       propertyPath: m_Mesh
@@ -71204,6 +71239,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 800326248}
+    - target: {fileID: 6005332265717988170, guid: 207190222e342ff4e857e824678070f6,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 40
+      objectReference: {fileID: 0}
     - target: {fileID: 6854230409683627350, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
       propertyPath: m_Mesh
@@ -71219,6 +71259,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 608603912}
+    - target: {fileID: 7961391301980415729, guid: 207190222e342ff4e857e824678070f6,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 33
+      objectReference: {fileID: 0}
     - target: {fileID: 8387133739508135973, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
       propertyPath: m_Mesh
@@ -71229,6 +71274,11 @@ PrefabInstance:
       propertyPath: m_Mesh
       value: 
       objectReference: {fileID: 962568694}
+    - target: {fileID: 8763693840487421536, guid: 207190222e342ff4e857e824678070f6,
+        type: 3}
+      propertyPath: m_VersionIndex
+      value: 33
+      objectReference: {fileID: 0}
     - target: {fileID: 8840791788381439672, guid: 207190222e342ff4e857e824678070f6,
         type: 3}
       propertyPath: m_Name
@@ -75447,6 +75497,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Greybox_Chest_Mesh
       objectReference: {fileID: 0}
+    - target: {fileID: 6416486939081439807, guid: b44c26ba063709547949b22b265cd665,
+        type: 3}
+      propertyPath: pickupMesh
+      value: 
+      objectReference: {fileID: 1133065861}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

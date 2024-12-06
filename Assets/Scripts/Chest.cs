@@ -9,6 +9,7 @@ public class Chest : Interactable_MasterClass
     [SerializeField] GameObject pickupMesh;
     private AudioSource chestOpeningSFX;
     [SerializeField] private AudioClip chestSFX;
+    [SerializeField] private Animator _Animator;
 
     private void Start()
     {
@@ -24,6 +25,7 @@ public class Chest : Interactable_MasterClass
         pickupEffect.Play();
         chestOpeningSFX.PlayOneShot(chestSFX);
         Destroy(pickupMesh);
+        _Animator.Play("Take 001");
         doOnce = true;
     }
 }
