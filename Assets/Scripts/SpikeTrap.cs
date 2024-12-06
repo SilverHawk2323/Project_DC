@@ -12,6 +12,7 @@ public class SpikeTrap : MonoBehaviour
         {
             _Animator.Play("SpikeUp");
         }
+        Debug.Log("Spikes");
     }
 
     private void OnTriggerExit(Collider other)
